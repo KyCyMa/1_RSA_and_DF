@@ -1,0 +1,51 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace DF_PRARTIKA
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int g = int.Parse(textBox4.Text);
+            int p = int.Parse(textBox3.Text);
+            int a = int.Parse(textBox2.Text);
+            int b = int.Parse(textBox1.Text);
+            double A = Math.Pow(g, a) % p;
+            double B = Math.Pow(g, b) % p;
+            double k = Math.Pow(g, a * b) % p;
+            double ka = Math.Pow(B, a) % p;
+            double kb = Math.Pow(A, b) % p;
+            if (ka == kb)
+            {
+                richTextBox1.Text = "Результат вычисления" + "\n A = " + A + "\n B = " + B + "\n Общий секретный ключ" + "\n K = " + k;
+            }
+            else
+            {
+                richTextBox1.Text = "error";
+            }
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

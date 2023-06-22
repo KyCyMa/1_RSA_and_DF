@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\DF PRARTIKA\DF PRARTIKA\bin\Debug\DF PRARTIKA.exe.config
+C:\Users\User\source\repos\DF PRARTIKA\DF PRARTIKA\bin\Debug\DF PRARTIKA.exe
+C:\Users\User\source\repos\DF PRARTIKA\DF PRARTIKA\bin\Debug\DF PRARTIKA.pdb
+C:\Users\User\source\repos\DF PRARTIKA\DF PRARTIKA\obj\Debug\DF PRARTIKA.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DF PRARTIKA\DF PRARTIKA\obj\Debug\DF_PRARTIKA.Form1.resources
+C:\Users\User\source\repos\DF PRARTIKA\DF PRARTIKA\obj\Debug\DF_PRARTIKA.Properties.Resources.resources
+C:\Users\User\source\repos\DF PRARTIKA\DF PRARTIKA\obj\Debug\DF PRARTIKA.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DF PRARTIKA\DF PRARTIKA\obj\Debug\DF PRARTIKA.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DF PRARTIKA\DF PRARTIKA\obj\Debug\DF PRARTIKA.exe
+C:\Users\User\source\repos\DF PRARTIKA\DF PRARTIKA\obj\Debug\DF PRARTIKA.pdb
