@@ -18,10 +18,10 @@ namespace DF_PRARTIKA
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            int g = int.Parse(textBox4.Text);
-            int p = int.Parse(textBox3.Text);
-            int a = int.Parse(textBox2.Text);
-            int b = int.Parse(textBox1.Text);
+            int g = int.Parse(textBox1.Text);
+            int p = int.Parse(textBox2.Text);
+            int a = int.Parse(textBox3.Text);
+            int b = int.Parse(textBox4.Text);
             double A = Math.Pow(g, a) % p;
             double B = Math.Pow(g, b) % p;
             double k = Math.Pow(g, a * b) % p;
