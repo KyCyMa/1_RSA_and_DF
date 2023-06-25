@@ -61,11 +61,10 @@ namespace RSA_PRAKTIKA
             int E = int.Parse(textBox3.Text);
             for (int h = 1; h <= 3; h++)
             {
-                int i = E + fi * h;
-                int k = (i * E) % fi;
+                int k = (d * E) % fi;
                 if (k == 1)
                 {
-                    richTextBox3.Text = "Закрытый ключ {" + i + ", " + n + "}";
+                    richTextBox3.Text = "Закрытый ключ {" + d + ", " + n + "}";
                 }
                 else
                 {
