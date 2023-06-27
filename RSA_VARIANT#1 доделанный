@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Numerics;
 using System.Windows.Forms;
 
 namespace RSA_PRAKTIKA
@@ -71,6 +72,25 @@ namespace RSA_PRAKTIKA
                     richTextBox3.Text = "Неверное число d";
                 }
             }
+        }
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int q = int.Parse(textBox1.Text);
+            int p = int.Parse(textBox2.Text);
+            int n = q * p;
+            int E = int.Parse(textBox3.Text);
+            int P = int.Parse(textBox5.Text);
+            richTextBox4.Text = "Зашифрованое собщение  " + BigInteger.Pow(P, E) % n;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            int q = int.Parse(textBox1.Text);
+            int p = int.Parse(textBox2.Text);
+            int n = q * p;
+            int c = int.Parse(textBox6.Text);
+            int d = int.Parse(textBox4.Text);
+            richTextBox5.Text = "Расшифрованое собщение  " + BigInteger.Pow(c, d) % n; ;
         }
     }  
 }
