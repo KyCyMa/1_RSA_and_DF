@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\diffi-helman praktika\diffi-helman praktika\bin\Debug\diffi-helman praktika.exe.config
+C:\Users\User\source\repos\diffi-helman praktika\diffi-helman praktika\bin\Debug\diffi-helman praktika.exe
+C:\Users\User\source\repos\diffi-helman praktika\diffi-helman praktika\bin\Debug\diffi-helman praktika.pdb
+C:\Users\User\source\repos\diffi-helman praktika\diffi-helman praktika\obj\Debug\diffi-helman praktika.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\diffi-helman praktika\diffi-helman praktika\obj\Debug\diffi_helman_praktika.Form1.resources
+C:\Users\User\source\repos\diffi-helman praktika\diffi-helman praktika\obj\Debug\diffi_helman_praktika.Properties.Resources.resources
+C:\Users\User\source\repos\diffi-helman praktika\diffi-helman praktika\obj\Debug\diffi-helman praktika.csproj.GenerateResource.cache
+C:\Users\User\source\repos\diffi-helman praktika\diffi-helman praktika\obj\Debug\diffi-helman praktika.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\diffi-helman praktika\diffi-helman praktika\obj\Debug\diffi-helman praktika.exe
+C:\Users\User\source\repos\diffi-helman praktika\diffi-helman praktika\obj\Debug\diffi-helman praktika.pdb
